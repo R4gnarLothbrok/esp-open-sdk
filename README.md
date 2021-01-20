@@ -76,7 +76,7 @@ Building
 Be sure to clone recursively:
 
 ```
-$ git clone --recursive https://github.com/pfalcon/esp-open-sdk.git
+$ git clone --recursive https://github.com/R4gnarLothbrok/esp-open-sdk
 ```
 
 The project can be built in two modes:
